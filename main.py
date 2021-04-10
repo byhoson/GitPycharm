@@ -17,3 +17,6 @@ print("hello world5")
 
 # adding new item in master of github
 print("hello world github")
+
+# adding new item in master of local
+print("hello world local")
