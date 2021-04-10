@@ -11,3 +11,6 @@ print("hello world3")
 
 # adding new item in hotfix
 print("hello world4")
+
+# adding new item in master
+print("hello world5")
